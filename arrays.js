@@ -5,11 +5,8 @@ var chocolateBars = [
   'skittles'
   ]
   
-// var addElementToBeginningOfArray = [ 
-  //  'Friends',
-    //'simpsons',
-    //'seinfeld',
-    //]
-  
- //['family guy', ...addElemntToBeginningOfArray]
-  
+ var addElementToBeginningOfArray = [ 
+   'Friends',
+    'simpsons',
+    'seinfeld',
+    ]
